@@ -18,8 +18,8 @@ API système d'authentification, construite avec **Node.js**, **Express**, **Bet
 ## Installation
 
 ```bash
-git clone https://github.com/ton-repo/pharmonline-api.git
-cd pharmonline-api
+git clone https://github.com/ton-repo/auth-api.git
+cd auth-api
 npm install
 ```
 
