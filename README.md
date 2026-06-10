@@ -1,6 +1,6 @@
-# PharmOnline — API Authentification
+# Authentification system — API REST
 
-API d'authentification de la plateforme PharmOnline, construite avec **Node.js**, **Express**, **Better Auth** et **MongoDB**.
+API système d'authentification, construite avec **Node.js**, **Express**, **Better Auth** et **MongoDB**.
 
 ---
 
