@@ -425,4 +425,4 @@ Valeurs acceptées : `Client`, `Pharmacien`, `Admin`.
 
 ## Licence
 
-MIT
+TINGUEU NGUIFO Shivano
